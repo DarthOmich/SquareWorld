@@ -1,7 +1,70 @@
 {
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-07-24 22:41:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-07-24 22:41:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2023-07-24 22:28:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-07-24 22:41:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-07-24 22:41:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-07-24 21:49:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-07-24 22:41:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-07-24 22:41:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-07-24 22:41:01 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle": "2023-07-23 18:22:43 +0300"
+      "minecraft:savanna_plateau": "2023-07-24 22:02:36 +0300",
+      "minecraft:beach": "2023-07-24 22:22:29 +0300",
+      "minecraft:sparse_jungle": "2023-07-24 22:41:12 +0300",
+      "minecraft:river": "2023-07-24 21:53:33 +0300",
+      "minecraft:lukewarm_ocean": "2023-07-24 22:22:38 +0300",
+      "minecraft:forest": "2023-07-24 22:02:31 +0300",
+      "minecraft:jungle": "2023-07-23 18:22:43 +0300",
+      "minecraft:meadow": "2023-07-24 21:59:56 +0300",
+      "minecraft:savanna": "2023-07-24 22:05:07 +0300",
+      "minecraft:plains": "2023-07-24 21:48:24 +0300"
     },
     "done": false
   },
